@@ -56,7 +56,7 @@ body {
 
 #navbar .navbar-container ul{
     display: flex;
-    list-style: auto;
+    list-style: none;
     font-weight: bold;
 }
 
